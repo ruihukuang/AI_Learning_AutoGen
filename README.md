@@ -27,4 +27,4 @@ The screenshot below shows the output.
 <img width="943" height="401" alt="image" src="https://github.com/user-attachments/assets/766288a0-12a6-407b-90d6-573e721e1092" />  
 
 
-
+The second third is to integrate LangChain tools with AutoGen. In this example, LangChain tools include google serper API to search webs and file management tool kits to write outputs into a file. 
