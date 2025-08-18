@@ -15,10 +15,13 @@ The screenshot below shows an answer provided by AutoGen.
 Context  
 There are four topics in this lab using AutoGen. 
 
-The first one is to use autogen to read an image from a provided link and then to use MultiModalMessage to create a user message so that a response could be provided for a defined agent. The user message in this example is *Describe the content of this image in detail*.  
+The first one is to use AutoGen to read an image from a provided link and then to use MultiModalMessage to create a user message so that a response could be provided for a defined agent. The user message in this example is *Describe the content of this image in detail*.  
 
 The screenshot below shows the response.  
 <img width="1004" height="592" alt="image" src="https://github.com/user-attachments/assets/ff9de295-abc2-4c96-a994-ac872c3e0def" />  
 
 
+The second one is to create a structured/defined output based on the same setup as the first topic. The output should include *scene*, *message*, *style* , and *orientation*.  
+
+The screenshot below shows the output.  
 
