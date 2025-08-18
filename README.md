@@ -13,3 +13,9 @@ The screenshot below shows an answer provided by AutoGen.
 ## lab 2    
 
 Context  
+There are four topics in this lab using AutoGen. 
+
+The first one is to use autogen to read an image from a provided link and then to use MultiModalMessage to create a user message so that a response could be provided for a defined agent. The user message in this example is *Describe the content of this image in detail*.  
+
+The screenshot below shows the response.  
+
