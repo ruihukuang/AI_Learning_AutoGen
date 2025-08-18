@@ -24,4 +24,7 @@ The screenshot below shows the response.
 The second one is to create a structured/defined output based on the same setup as the first topic. The output should include *scene*, *message*, *style* , and *orientation*.  
 
 The screenshot below shows the output.  
+<img width="943" height="401" alt="image" src="https://github.com/user-attachments/assets/766288a0-12a6-407b-90d6-573e721e1092" />  
+
+
 
