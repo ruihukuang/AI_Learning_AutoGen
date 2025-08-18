@@ -1,4 +1,4 @@
-# AI_learning_AutoGen  
+# AI_Learning_AutoGen  
 
 ## lab 1  
 
