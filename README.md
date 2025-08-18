@@ -35,6 +35,9 @@ The fourth one is to use RoundRobinGroupChat to enable multiple agents to share 
 In this example, there are 2 agents. One agent acts as a research assistant to uses google serper API, a LangChain tool to look for promising deals on flights. Another agent acts as an evaluator to provide feedback and approval for the research assistant agent. The user message is *Find a one-way non-stop flight from JFK to LHR in June 2025*.  
 
 The screenshot below shows outputs.  
+<img width="991" height="583" alt="image" src="https://github.com/user-attachments/assets/094878f5-2616-4b9d-978a-6cdd120deac1" />  
+
+
 
 
 
