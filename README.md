@@ -27,4 +27,14 @@ The screenshot below shows the output.
 <img width="943" height="401" alt="image" src="https://github.com/user-attachments/assets/766288a0-12a6-407b-90d6-573e721e1092" />  
 
 
-The second third is to integrate LangChain tools with AutoGen. In this example, LangChain tools include google serper API to search webs and file management tool kits to write outputs into a file. 
+The third one is to integrate LangChain tools with AutoGen.   
+In this example, LangChain tools include google serper API to search webs and file management tool kits to write outputs into a file. The file could be found in the link https://github.com/ruihukuang/AI_learning_AutoGen/blob/main/sandbox/flights.md.   
+
+
+The fourth one is to use RoundRobinGroupChat to enable multiple agents to share the same context.   
+In this example, there are 2 agents. One agent acts as a research assistant to uses google serper API, a LangChain tool to look for promising deals on flights. Another agent acts as an evaluator to provide feedback and approval for the research assistant agent. The user message is *Find a one-way non-stop flight from JFK to LHR in June 2025*.  
+
+The screenshot below shows outputs.  
+
+
+
