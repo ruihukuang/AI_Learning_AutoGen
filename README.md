@@ -38,6 +38,33 @@ The screenshot below shows outputs.
 <img width="991" height="583" alt="image" src="https://github.com/user-attachments/assets/094878f5-2616-4b9d-978a-6cdd120deac1" />  
 
 
+## lab 3  
+
+Context  
+
+This lab focuses on standalone runtime: the *SingleThreadedAgentRuntime*, a local embedded agent runtime implementation. In this example, there are 3 agents including player 1, player 2 and an agent providing instructions for players and judgements of who wins. The instructions are about playing rock, paper, scissors.  
+
+The screenshot belows show results.   
+<img width="908" height="210" alt="image" src="https://github.com/user-attachments/assets/f1766153-8ce7-484d-887f-9aa54d785433" />  
+
+
+## lab 4     
+
+Context  
+
+This lab focuses on distributed runtime. In this example, there are 3 agents including player 1, player 2 and an agent providing instructions for players and making a decision on whether to use AutoGen for a project. The instructions are about discussing pros and cons for AutoGen.  
+
+The screenshot belows show results.  
+<img width="877" height="574" alt="image" src="https://github.com/user-attachments/assets/1539132c-8c8b-4885-a6a3-9dc2416f712b" />  
+
+
+
+
+
+
+
+
+
 
 
 
