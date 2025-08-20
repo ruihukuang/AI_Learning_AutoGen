@@ -57,6 +57,9 @@ This lab focuses on distributed runtime. In this example, there are 3 agents inc
 The screenshot belows show results.  
 <img width="877" height="574" alt="image" src="https://github.com/user-attachments/assets/1539132c-8c8b-4885-a6a3-9dc2416f712b" />  
 
+## App folder 
+
+<img width="1725" height="284" alt="image" src="https://github.com/user-attachments/assets/5555ea17-97db-4772-98ea-821a5d3255fd" />
 
 
 
