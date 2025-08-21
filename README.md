@@ -60,7 +60,7 @@ The screenshot belows show results.
 ## App folder   
 
 Context  
-There are 3 agents in this workflow. One agent is a creator who could creates agents. 2 agents are created based on a python code template provided in agent.py. These two agents come up with a new business idea. If a randomly generated number is lower than a defined percentage, an agent will act on refining the idea and make it better. This workflow uses distributed runtime and distributed runtime and coroutines, enabling agents to run asynchronous tasks concurrently.   
+There are 3 agents in this workflow. One agent is a creator who could creates agents. 2 agents are created based on a python code template provided in agent.py. These two agents come up with new business ideas. If a randomly generated number is lower than a defined percentage, an agent will act on refining the idea and make it better after an agent proposes an idea. This workflow uses distributed runtime and distributed runtime and coroutines, enabling agents to run asynchronous tasks concurrently.   
 
 The screenshot below shows progress in steps in this workflow.  
 <img width="1725" height="284" alt="image" src="https://github.com/user-attachments/assets/5555ea17-97db-4772-98ea-821a5d3255fd" />  
