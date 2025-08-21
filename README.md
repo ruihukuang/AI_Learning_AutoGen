@@ -69,7 +69,7 @@ The screenshot below shows progress in steps in this workflow.
 
 Ideas that are proposed by 2 agents could be found in https://github.com/ruihukuang/AI_Learning_AutoGen/blob/main/app/idea1.md and https://github.com/ruihukuang/AI_Learning_AutoGen/blob/main/app/idea2.md.  
 
-This process is not reliable. 3 Attemps were made before generating outputs. 
+3 Attemps were made before generating outputs. 
 
 
 
