@@ -57,9 +57,20 @@ This lab focuses on distributed runtime. In this example, there are 3 agents inc
 The screenshot belows show results.  
 <img width="877" height="574" alt="image" src="https://github.com/user-attachments/assets/1539132c-8c8b-4885-a6a3-9dc2416f712b" />  
 
-## App folder 
+## App folder   
 
-<img width="1725" height="284" alt="image" src="https://github.com/user-attachments/assets/5555ea17-97db-4772-98ea-821a5d3255fd" />
+Context  
+There are 3 agents in this workflow. One agent is a creator who could creates agents. 2 agents are created based on a python code template provided in agent.py. These two agents come up with a new business idea. If a randomly generated number is lower than a defined percentage, an agent will act on refining the idea and make it better. This workflow uses distributed runtime and distributed runtime and coroutines, enabling agents to run asynchronous tasks concurrently.   
+
+The screenshot below shows progress in steps in this workflow.  
+<img width="1725" height="284" alt="image" src="https://github.com/user-attachments/assets/5555ea17-97db-4772-98ea-821a5d3255fd" />  
+
+2 newly created templates for 2 agents who propose a new business idea could be found in https://github.com/ruihukuang/AI_Learning_AutoGen/blob/main/app/agent1.py and https://github.com/ruihukuang/AI_Learning_AutoGen/blob/main/app/agent2.py.  
+
+Ideas that are proposed by 2 agents could be found in https://github.com/ruihukuang/AI_Learning_AutoGen/blob/main/app/idea1.md and https://github.com/ruihukuang/AI_Learning_AutoGen/blob/main/app/idea2.md.  
+
+This process is not reliable. 3 Attemps were made before generating outputs. 
+
 
 
 
