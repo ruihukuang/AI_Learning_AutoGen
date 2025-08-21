@@ -1,4 +1,4 @@
-Certainly! Here’s an innovative idea that leverages both blockchain technology and AI to enhance client engagement in the fintech sector:
+Certainly! Hereâ€™s an innovative idea that leverages both blockchain technology and AI to enhance client engagement in the fintech sector:
 
 **Decentralized Financial Advisory Platform with AI-Powered Insights**
 
